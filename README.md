@@ -54,10 +54,7 @@ cd LogicCircuit
 
 Inside this folder you will find another folder logicCircuit. open it and open the logicCircuit.html on browser
 
-**Strong command in software engineering & programming principles across different platforms.
-Interest and knowledge of designing interfaces, testing and debugging codes
-Knowledge of Languages: Python,JavaScript,HTML and CSS
-Adept in javascript frameworks like React.js and Express.js.**
+
 
 
 
