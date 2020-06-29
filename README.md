@@ -1,3 +1,4 @@
+To view the site follow the link - https://pratyush1197.github.io/
 # LogicCircuit
 A Javascript based digital logic circuit simulator
 
